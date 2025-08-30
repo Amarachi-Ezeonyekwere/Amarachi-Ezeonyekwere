@@ -6,7 +6,7 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
 - 🚀 Exploring **CI/CD, Docker, Kubernetes, and Cloud-native tools**.
 - 🙏 Believer in growth, consistency, and God’s grace.
 - ## 📌 Current Projects
-- 📖 **30 Days of Linux Learning** → [Check it out here](link-to-your-repo)
+- 📖 **30 Days of Linux Learning** → [Check it out here](https://github.com/Amarachi-Ezeonyekwere/linux_learning)
 - ⚙️ **DevOps CI/CD Pipeline Demo** → Coming soon!
 - 🗂 **Cloud Notes & Documentation** → Ongoing 
 - 📫 Connect with Me :
