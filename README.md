@@ -9,7 +9,7 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
 - 📖 **30 Days of Linux Learning** → [Check it out here](https://github.com/Amarachi-Ezeonyekwere/linux_learning)
 - ⚙️ **DevOps CI/CD Pipeline Demo** → Coming soon!
 - 🗂 **Cloud Notes & Documentation** → Ongoing 
-- 📫 Connect with Me :
+- ## 📫 Connect with Me :
 - 💼 [LinkedIn](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
 - 📝 [Medium / Blog](https://medium.com/@amarachiezeonyekwere)
 - ## 🛠️ Tech Stack :
