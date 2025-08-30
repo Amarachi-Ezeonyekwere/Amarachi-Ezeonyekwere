@@ -56,6 +56,24 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
+<p align="center">
+  <!-- Tech Stack Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" loading="lazy" decoding="async"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" loading="lazy" decoding="async"/>
+
+  <!-- GitHub: light/dark aware so it's not black on black -->
+  <picture>
+    <source srcset="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-120px-plus.png" media="(prefers-color-scheme: dark)"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-120px-plus.png" width="50" height="50" alt="GitHub" loading="lazy" decoding="async"/>
+  </picture>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" loading="lazy" decoding="async"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" loading="lazy" decoding="async"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" loading="lazy" decoding="async"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" loading="lazy" decoding="async"/>
+  <
+
+
 
 
 - ✨ *“The journey of a thousand miles begins with a single step — and consistent learning.”* 
