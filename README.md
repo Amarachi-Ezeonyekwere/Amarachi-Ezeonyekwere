@@ -20,7 +20,7 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
 - **OS**: Linux (Ubuntu, CentOS) 
 - **Monitoring**: Datadog, ELK Stack 
 - **Other Tools**: Terraform, Ansible
--## <p align="center">
+-<p align="center">
   <!-- Tech Stack Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
