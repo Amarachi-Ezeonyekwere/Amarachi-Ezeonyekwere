@@ -32,9 +32,9 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/logstash-icon-512x512-yks3gegz.png" width="50" height="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/kibana-icon-512x509-1ffnx58z.png" width="50" height="50"/>
-  <img src="https://companieslogo.com/img/orig/DDOG_BIG.D-7c4f8a16.png?t=1721032122" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/logstash.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" width="50" height="50"/>
 </p>
 
 ---
