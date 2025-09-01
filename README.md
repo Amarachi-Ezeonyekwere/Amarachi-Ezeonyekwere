@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Security Enthusiast** 
-- ## 🌟 About Me - 🌍 Based in Nigeria, passionate about building scalable, secure cloud solutions. 
-- 🎯 Currently focused on **Cloud Computing, DevOps, and Security**.
-- 🚀 Exploring **CI/CD, Docker, Kubernetes, and Cloud-native tools**.
-- 🙏 Believer in growth, consistency, and God’s grace.
+- ##  About Me - Based in Nigeria, passionate about building scalable, secure cloud solutions. 
+-  Currently focused on **Cloud Computing, DevOps, and Security**.
+-  Exploring **CI/CD, Docker, Kubernetes, and Cloud-native tools**.
+-  Believer in growth, consistency, and God’s grace.
 - ## 📌 Current Projects
 - 📖 **30 Days of Linux Learning** → [Check it out here](https://github.com/Amarachi-Ezeonyekwere/Linux_Command_Documentation)
 - ⚙️ **DevOps CI/CD Pipeline Demo** → Coming soon!
 - 🗂 **Cloud Notes & Documentation** → Ongoing 
-- ## 📫 Connect with Me :
+- ##  Connect with Me :
 - 💼 [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
 - 📝 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
