@@ -12,7 +12,7 @@ I'm Amarachi, **DevOps & Cloud Engineer | Lifelong Learner | Automation & Securi
 - ## 📫 Connect with Me :
 - 💼 [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
-- 📝 [Medium / Blog](https://medium.com/@amarachiezeonyekwere)
+- 📝 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
 - ## 🛠️ Tech Stack :
 - **Cloud**: AWS, Azure, GCP
 - **Containers & Orchestration**: Docker, Kubernetes
