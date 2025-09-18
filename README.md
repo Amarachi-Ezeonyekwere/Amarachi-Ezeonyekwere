@@ -41,7 +41,7 @@ I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environ
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
-
+---
 
 
 
