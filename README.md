@@ -1,7 +1,7 @@
-## Hi there 
+## Hi there 👋
 
-I'm Amarachi, **DevOps & Cloud Engineer skilled in building scalable environments across AWS, Azure, and GCP. Experienced with IaC (Terraform), CI/CD (GitHub Actions), Docker/Kubernetes, and monitoring (Datadog, ELK) to deliver reliable, automated systems. 
--  Currently focused on **Cloud & DevOps**.
+I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environments across AWS, Azure, and GCP. Experienced with IaC (Terraform), CI/CD (GitHub Actions), Docker/Kubernetes, and monitoring (Datadog, ELK) to deliver reliable, automated systems. 
+-  Focused on **Cloud & DevOps Engineering**.
 -  Believer in growth, consistency, and God’s grace.
 
 ---
@@ -12,7 +12,7 @@ I'm Amarachi, **DevOps & Cloud Engineer skilled in building scalable environment
 
 ---
 
-- ## 🛠️ Tech Stack :
+- ##  Tech Stack :
 - **Cloud**: AWS, Azure, GCP
 - **Containers & Orchestration**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions 
@@ -20,22 +20,7 @@ I'm Amarachi, **DevOps & Cloud Engineer skilled in building scalable environment
 - **Scripting**:  Bash
 - **Monitoring**: Datadog, ELK Stack 
 - **Other Tools**: Terraform, Ansible, Helm
-<p align="center">
-  <!-- Tech Stack Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/logstash.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kibana.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" width="50" height="50"/>
-</p>
+
 
 ---
 
@@ -62,5 +47,5 @@ I'm Amarachi, **DevOps & Cloud Engineer skilled in building scalable environment
 
 - ✨ *“The journey of a thousand miles begins with a single step — and consistent learning.”*
 
-- ## 📌 view my pinned Projects below
+- ## 📌 view my pinned Projects below 👇
 
