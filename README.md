@@ -18,7 +18,7 @@ I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environ
 - **CI/CD**: GitHub Actions 
 - **Version Control**: Git & GitHub 
 - **Scripting**:  Bash
-- **Monitoring**: Datadog, ELK Stack 
+- **Monitoring**: Datadog, ELK Stack, Prometheus, and Grafana
 - **Other Tools**: Terraform, Ansible, Helm
 
 
@@ -47,5 +47,5 @@ I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environ
 
 - ✨ *“The journey of a thousand miles begins with a single step — and consistent learning.”*
 
-- ## 📌 view my pinned Projects below 👇
+- ## 📌 view my pinned Projects below (Iterative and Ongoing) 👇
 
