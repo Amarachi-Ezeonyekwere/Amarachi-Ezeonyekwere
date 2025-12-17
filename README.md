@@ -9,6 +9,8 @@ I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environ
 -  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
 -  [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
+-  [![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Badges-orange?style=flat&logo=credly)](https://www.credly.com/users/amarachi-ezeonyekwere)
+
 
 ---
 
