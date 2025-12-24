@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environments across AWS, Azure, and GCP. Experienced with IaC (Terraform), CI/CD (GitHub Actions), Docker/Kubernetes, and monitoring (Datadog, ELK) to deliver reliable, automated systems. 
--  Focused on **Cloud & DevOps Engineering**.
--  Believer in growth, consistency, and God’s grace.
+
+I’m a DevOps & Cloud Engineer who enjoys turning infrastructure concepts into working systems.
+
+My work focuses on cloud networking, Linux administration, automation, monitoring, and security best practices. This repository is a record of projects I’ve built, problems I’ve solved, and lessons learned while working with real cloud environments.
+
+I’m passionate about learning by doing and contributing to teams that value reliability, clarity, and continuous improvement.
+
 
 ---
 - ##  Connect with Me :
@@ -47,7 +51,7 @@ I'm Amarachi, a **DevOps & Cloud Engineer** skilled in building scalable environ
 
 
 
-- ✨ *“The journey of a thousand miles begins with a single step — and consistent learning.”*
+- ✨ “The journey of a thousand miles begins with a single step, and consistent learning.”
 
 - ## 📌 view my pinned Projects below (Iterative and Ongoing) 👇
 
