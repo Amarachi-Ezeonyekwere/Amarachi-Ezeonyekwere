@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+Cloud & DevOps Engineer specializing in secure, scalable multi-cloud infrastructure across AWS, Azure, and GCP.
 
-I’m a DevOps & Cloud Engineer who enjoys turning infrastructure concepts into working systems.
+I build production-grade systems — not demos. My work spans Infrastructure as Code (Terraform, Ansible), CI/CD pipelines, DevSecOps, containerization, and observability. Every repository here reflects real architecture decisions, real deployment challenges, and real solutions.
+Currently exploring Agentic AI and AI-driven infrastructure automation.
 
-My work focuses on cloud networking, Linux administration, automation, monitoring, and security best practices. This repository is a record of projects I’ve built, problems I’ve solved, and lessons learned while working with real cloud environments.
-
-I’m passionate about learning by doing and contributing to teams that value reliability, clarity, and continuous improvement.
+Open to DevOps and Cloud Engineering roles.
 
 
 ---
@@ -21,9 +21,9 @@ I’m passionate about learning by doing and contributing to teams that value re
 - ##  Tech Stack :
 - **Cloud**: AWS, Azure, GCP
 - **Containers & Orchestration**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions 
+- **CI/CD**: GitHub Actions, Azure DevOps
 - **Version Control**: Git & GitHub 
-- **Scripting**:  Bash
+- **Scripting**:  Bash, python
 - **Monitoring**: Datadog, ELK Stack, Prometheus, and Grafana
 - **Other Tools**: Terraform, Ansible, Helm
 
@@ -53,5 +53,5 @@ I’m passionate about learning by doing and contributing to teams that value re
 
 - ✨ “The journey of a thousand miles begins with a single step, and consistent learning.”
 
-- ## 📌 view my pinned Projects below (Iterative and Ongoing) 👇
+- ## 📌 view my pinned Projects below 👇
 
