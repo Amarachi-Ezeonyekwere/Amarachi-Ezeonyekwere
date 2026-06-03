@@ -8,6 +8,9 @@ Currently exploring Agentic AI and AI-driven infrastructure automation.
 Open to DevOps and Cloud Engineering roles.
 
 
+![](https://komarev.com/ghpvc/?username=Amarachi-Ezeonyekwere&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+
 ---
 - ##  Connect with Me :
 -  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
