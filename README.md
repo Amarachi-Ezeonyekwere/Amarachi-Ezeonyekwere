@@ -19,12 +19,12 @@ Open to DevOps and Cloud Engineering roles.
 <hr style="border: 2px solid teal;">
 
 - ##  Tech Stack :
-- **Cloud**: AWS, Azure, GCP
+- **Cloud Platform**: AWS, Azure, GCP
 - **Containers & Orchestration**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, Azure DevOps
 - **Version Control**: Git & GitHub 
 - **Scripting**:  Bash, python
-- **Monitoring**: Datadog, ELK Stack, Prometheus, and Grafana
+- **Monitoring**: Datadog, Prometheus, and Grafana
 - **Other Tools**: Terraform, Ansible, Helm
 
 <hr style="border: 2px solid blue;">
@@ -48,6 +48,8 @@ Open to DevOps and Cloud Engineering roles.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 <hr style="border: 2px solid teal;">
