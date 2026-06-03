@@ -26,7 +26,8 @@ Open to DevOps and Cloud Engineering roles.
 - **Monitoring**: Datadog, ELK Stack, Prometheus, and Grafana
 - **Other Tools**: Terraform, Ansible, Helm
 
----
+<hr style="border: 2px solid teal;">
+
 ![](https://komarev.com/ghpvc/?username=Amarachi-Ezeonyekwere&color=008080&style=flat-square&label=PROFILE+VIEWS+COUNT)
 ---
 
