@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Amarachi Ezeonyekwere👋
 
 Cloud & DevOps Engineer specializing in secure, scalable multi-cloud infrastructure across AWS, Azure, and GCP.
 
@@ -10,10 +10,10 @@ Open to DevOps and Cloud Engineering roles.
 <hr style="border: 2px solid teal;">
 
 - ##  Connect with Me :
--  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
+-  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-blue?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
 -  [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
--  [![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Badges-orange?style=flat&logo=credly)](https://www.credly.com/users/amarachi-ezeonyekwere)
+-  [![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Badges-blue?style=flat&logo=credly)](https://www.credly.com/users/amarachi-ezeonyekwere)
 
 
 <hr style="border: 2px solid teal;">
@@ -33,9 +33,7 @@ Open to DevOps and Cloud Engineering roles.
 
 <hr style="border: 2px solid teal;">
 
-<p align="center">
-  <!-- Shields.io Badges -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -44,11 +42,10 @@ Open to DevOps and Cloud Engineering roles.
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zipkin-000000?style=for-the-badge&logo=zipkin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 <hr style="border: 2px solid teal;">
 
