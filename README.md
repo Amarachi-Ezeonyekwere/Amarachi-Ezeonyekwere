@@ -7,7 +7,7 @@ Currently exploring Agentic AI and AI-driven infrastructure automation.
 
 Open to DevOps and Cloud Engineering roles.
 
----
+<hr style="border: 2px solid teal;">
 - ##  Connect with Me :
 -  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-red?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
@@ -15,7 +15,7 @@ Open to DevOps and Cloud Engineering roles.
 -  [![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Badges-orange?style=flat&logo=credly)](https://www.credly.com/users/amarachi-ezeonyekwere)
 
 
----
+<hr style="border: 2px solid teal;">
 
 - ##  Tech Stack :
 - **Cloud**: AWS, Azure, GCP
@@ -29,7 +29,8 @@ Open to DevOps and Cloud Engineering roles.
 <hr style="border: 2px solid teal;">
 
 ![](https://komarev.com/ghpvc/?username=Amarachi-Ezeonyekwere&color=008080&style=flat-square&label=PROFILE+VIEWS+COUNT)
----
+
+<hr style="border: 2px solid teal;">
 
 <p align="center">
   <!-- Shields.io Badges -->
@@ -48,7 +49,7 @@ Open to DevOps and Cloud Engineering roles.
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 </p>
 
----
+<hr style="border: 2px solid teal;">
 
 
 
