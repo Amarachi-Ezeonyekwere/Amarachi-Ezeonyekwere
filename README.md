@@ -9,6 +9,12 @@ Open to DevOps and Cloud Engineering roles.
 
 <hr style="border: 2px solid teal;">
 
+📂 My Cloud DevOps Project Portfolio
+
+https://github.com/Amarachi-Ezeonyekwere/cloud-devops-projects-portfolio
+
+<hr style="border: 2px solid teal;">
+
 - ##  Connect with Me :
 -  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-blue?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
