@@ -2,7 +2,7 @@
 
 Cloud & DevOps Engineer specializing in secure, scalable multi-cloud infrastructure across AWS, Azure, and GCP.
 
-I build production-grade systems, not demos. My work spans Infrastructure as Code (Terraform, Ansible), CI/CD pipelines, DevSecOps, containerization, and observability. Every repository here reflects real architecture decisions, real deployment challenges, and real solutions.
+I build production-grade systems, not demos. My work spans Infrastructure as Code (Terraform, Ansible), CI/CD pipelines, DevSecOps, containerization, Kubernetes, and observability. Every repository here reflects real architecture decisions, real deployment challenges, and real solutions.
 Currently exploring Agentic AI and AI-driven infrastructure automation.
 
 Open to DevOps and Cloud Engineering roles.
