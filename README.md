@@ -9,7 +9,7 @@ Open to DevOps and Cloud Engineering roles.
 
 <hr style="border: 2px solid teal;">
 
-📂 My Cloud DevOps Project Portfolio
+📂 My DevOps Project Portfolio
 
 [View Projects Portfolio Here](https://github.com/Amarachi-Ezeonyekwere/Cloud-and-DevOps-Project-Portfolio)
 
