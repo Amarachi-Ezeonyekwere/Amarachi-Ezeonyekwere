@@ -22,20 +22,20 @@ Open to DevOps and Cloud Engineering roles.
 - ##  Connect with Me :
 -  [![Email](https://img.shields.io/badge/Email-amarachiezeonyekwere%40gmail.com-blue?style=flat&logo=gmail)](mailto:amarachiezeonyekwere@gmail.com)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amarachi%20Ezeonyekwere-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amarachi-ezeonyekwere/)
--  [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
+-  [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Blogs-green?style=flat&logo=medium)](https://medium.com/@amarachiezeonyekwere)
 -  [![Credly](https://img.shields.io/badge/Credly-Certifications%20%26%20Badges-blue?style=flat&logo=credly)](https://www.credly.com/users/amarachi-ezeonyekwere)
 
 
 <hr style="border: 2px solid teal;">
 
-- ##  Tech Stack :
+- ##  Tech Stack:
 - **Cloud Platform**: AWS, Azure, GCP
 - **Containers & Orchestration**: Docker, Kubernetes
 - **CI/CD**: GitHub Actions, Azure DevOps
 - **Version Control**: Git & GitHub 
 - **Scripting**:  Bash, python
 - **Monitoring**: Datadog, Prometheus, and Grafana
-- **Other Tools**: Terraform, Ansible, Helm
+- **Other Tools**: Terraform, Ansible, Helm Chart, Argo CD 
 
 <hr style="border: 2px solid blue;">
 
